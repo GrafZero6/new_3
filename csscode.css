@@ -44,6 +44,9 @@ body {
     color: #FFFFFF;   
     text-decoration: none; 
 }
+.offer_about_contact:hover {
+    opacity: 0.6;
+}
 /*---------------------------------------------header---------*/
 .perv_block {
     display: flex; 
@@ -89,6 +92,10 @@ body {
     display: flex;
     margin-top: 50px;
     color: #005AD5;
+   
+}
+.buttom:hover {
+    opacity: 0.6;
 }
 .right_block {
     padding-top: 226px;
@@ -135,6 +142,9 @@ body {
     padding: 12.99px;
     color: #005AD5;
     text-decoration: none; 
+}
+.buttom_2:hover {
+    opacity: 0.6;
 }
 .knopki {
     padding-top: 31.98px;
@@ -242,7 +252,7 @@ color: #6C6C6C;
     color: #000;
     background: #FFFFFF;
     padding-bottom: 228px;
-    align-items: flex-end;,
+    align-items: flex-end;
 }
 .cartoon_undraw_2 {
     padding-top: 309.92px;
@@ -359,4 +369,7 @@ text-align: center;
 letter-spacing: 2px;
 color: #FFFFFF;
 margin-bottom: 173px;
+}
+.button_free:hover {
+    opacity: 0.6;
 }
